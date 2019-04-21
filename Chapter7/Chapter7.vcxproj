@@ -80,9 +80,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PurelySubsonicIsentropicNozzleFlow.cpp" />
     <ClCompile Include="SubsonicSupersonicIsentropicNozzleFlow.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PurelySubsonicIsentropicNozzleFlow.h" />
     <ClInclude Include="SubsonicSupersonicIsentropicNozzleFlow.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

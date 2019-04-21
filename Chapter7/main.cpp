@@ -1,4 +1,5 @@
 #include "SubsonicSupersonicIsentropicNozzleFlow.h"
+#include "PurelySubsonicIsentropicNozzleFlow.h"
 #include <fstream>
 
 int main()
